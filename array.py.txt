@@ -14,3 +14,4 @@ array_type=type(array)
 
 element_type=array.dtype
  "END SEM PRAC"
+"Pulling"
